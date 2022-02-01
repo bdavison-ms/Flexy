@@ -4,7 +4,7 @@ A command-line tool for faster PG to PG offline parallel migration. Run from any
 ## Set up
 * In your vm workspace, 
 ```
-    git clone https://github.com/ljiang001/Flexy.git\
+    git clone https://github.com/ljiang001/Flexy.git
 ```
 * Install the following if not yet installed.
     * python3
